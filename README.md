@@ -1,4 +1,4 @@
 # Python-data-analysis-scraping
 
-* **Daily covid-19 updte**
-    ![](/Images/pic1.png)
+* **Daily covid-19 update**
+  ![](/images/pic1.png)
