@@ -2,4 +2,4 @@
 
 * **Daily covid-19 update** [ Link ](/covid19_web/)
 
-  ![](page.png)
+  ![](images/page.png)
